@@ -1,6 +1,6 @@
 2026080101  default  M66B/NetGuard                  flav:          17  ic_colr:BLUE_TO_GREEN
 10721       default  Hamza417/Inure                 flav:github    17  ic_colr:RED_TO_BLUE
-79          default  SmartPack/PackageManager       flav:pro       17  ic_colr:INVERSE
+80          default  SmartPack/PackageManager       flav:pro       17  ic_colr:INVERSE
 33          default  zacharee/RootActivityLauncher  flav:          17  ic_colr:INVERSE
 55          default  tytydraco/LADB                 flav:          17  ic_colr:INVERSE
 1520        default  cylonid/NativeAlphaForAndroid  flav:extended  17  ic_colr:RED_TO_BLUE
